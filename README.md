@@ -7,5 +7,9 @@ When building this demo application, users must specify their api key during the
 ## Examples
 Build command for api key argument: --dart-define=AUTH=[apikey]
 
+## Code of Conduct
+Your safety is important to us, thus all contributions to and interactions with ZebraDevs projects have to adhere to our Code of Conduct.
+You can find the Code of Conduct [here](Code_of_Conduct.md).
+
 ## License
 [Zebra EULA](ZEBRA_EULA_LICENSE.md) 
