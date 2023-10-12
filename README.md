@@ -5,7 +5,7 @@ Public repository containing source code for ZSDemo
 When building this demo application, users must specify their api key during the build process.  The api key is used to interact with the REST api and is used to authenticate with the ZSFinder service.
 
 ## Examples
-Build command for api key argument: --dart-define=AUTH=[apikey]
+Build parameter for api key argument: --dart-define=AUTH=[apikey]
 
 ## Code of Conduct
 Your safety is important to us, thus all contributions to and interactions with ZebraDevs projects have to adhere to our Code of Conduct.
