@@ -9,7 +9,7 @@ Public repository of Flutter source code for the ZSDemo mobile application for A
 
 ## Release Notes
 
-- V1.0.823
+- V1.0.1 => V1.0.823 (ZSDemo google play release)
   - Initial Release
 
 ## Prerequisites
